@@ -8,4 +8,4 @@ Created an website which fetch data from wikipedia
 # Tailwind css
 # TypeScript
 
- # i have created this project while learning the Next js
+    # i have created this project while learning the Next js
